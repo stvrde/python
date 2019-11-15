@@ -1,0 +1,9 @@
+git clone
+git add - ovo je prvo. moras stavit i file npr. test.py
+git status - da vidis status
+git commit -m "poruka" 
+git push push gurne gore
+git pull za povuc verziju s gita
+git branch
+git merge
+git checkout imegrane za prominit granu
