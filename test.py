@@ -1,6 +1,7 @@
 
 def main():
-	print("hello world")
+	print("hello wld")
+	print("ovo je nova promjena")
 
 
 
